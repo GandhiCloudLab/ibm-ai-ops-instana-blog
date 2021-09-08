@@ -1,0 +1,31 @@
+{
+    "details": {
+    "containerNames": [],
+    "customPayloads": {
+      "custom:NodeAlias": [
+        "ilender-creditscore-66d5886bd9-vl2xk"
+      ]
+    }
+  },
+  "deduplicationKey": "someId",
+  
+  "sender": {
+    "name": "Instana",
+    "displayName": "Instana Server",
+    "sourceId": "someId",
+    "type": "Instana"
+  },
+  "resource": {
+    "sourceId": "someId",
+    "type": "JVM",
+    "displayName": "test",
+    "hostname": "test.fqdn",
+    "name": "test"
+  },  
+  "severity": "Warning",
+  "summary": "Garbage Collection Activity High (11%)",
+
+  "type": {
+    "eventType": "JVM"
+  }
+}
