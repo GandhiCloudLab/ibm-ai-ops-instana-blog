@@ -81,8 +81,11 @@ Home : [Integrating Instana with Watson AIOps](https://community.ibm.com/communi
 #### Released by :
 
 Jeya Gandhi Rajan M
+
 Vijaya Bhaskar R Siddareddi
+
 Vijay Sukthankar (Squad Leader)
+
 
 Hybrid-Cloud Squad
 GSI Labs
